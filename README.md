@@ -1,3 +1,3 @@
-# cpe-2-little-simple
+# cpe-2-PYGAME-vocabulary
 my project PYGAME 
 select synnoname 
